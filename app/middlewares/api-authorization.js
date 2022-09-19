@@ -1,4 +1,4 @@
-const EnvConfig = require('../../config//env.config')
+const EnvConfig = require('../../config/env.config')
 const Helper = require('../helpers/helper')
 
 module.exports = (req, res, next) => {
