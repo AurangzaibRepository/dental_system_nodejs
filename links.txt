@@ -1,0 +1,6 @@
+https://www.bezkoder.com/react-node-express-mysql/#Project_Structure
+https://reactrouter.com/docs/en/v6/getting-started/tutorial
+https://blog.logrocket.com/react-router-hooks-will-make-your-component-cleaner/
+https://sebhastian.com/sequelize-date-format/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString
+https://forbeslindesay.github.io/express-route-tester/
